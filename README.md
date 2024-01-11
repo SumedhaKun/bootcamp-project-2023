@@ -1,4 +1,4 @@
-# React Web App
+# Next.JS Web App
 Made as a part of the Hack4Impact bootcamp!
 
 Includes blog and comment features.
